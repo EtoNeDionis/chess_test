@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/chess_test/static/css/main.e459b0f7.css",
-    "main.js": "/chess_test/static/js/main.8715ad37.js",
+    "main.js": "/chess_test/static/js/main.cf8b0ffe.js",
     "static/media/chess-king-white.png": "/chess_test/static/media/chess-king-white.bcf06732301429d53497.png",
     "static/media/chess-knight-white.png": "/chess_test/static/media/chess-knight-white.e0fa4264b57ac660360b.png",
     "static/media/chess-king-black.png": "/chess_test/static/media/chess-king-black.d2a1a7e6dc0f116be69f.png",
@@ -16,10 +16,10 @@
     "static/media/chess-bishop-black.png": "/chess_test/static/media/chess-bishop-black.5940250faef1a65bd3a9.png",
     "index.html": "/chess_test/index.html",
     "main.e459b0f7.css.map": "/chess_test/static/css/main.e459b0f7.css.map",
-    "main.8715ad37.js.map": "/chess_test/static/js/main.8715ad37.js.map"
+    "main.cf8b0ffe.js.map": "/chess_test/static/js/main.cf8b0ffe.js.map"
   },
   "entrypoints": [
     "static/css/main.e459b0f7.css",
-    "static/js/main.8715ad37.js"
+    "static/js/main.cf8b0ffe.js"
   ]
 }
